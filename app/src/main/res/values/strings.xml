@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Dashboard Screen Layout</string>
+    <string name="hello">Hello</string>
+    <string name="john">User</string>
+    <string name="search_elements">Search Elements</string>
+    <string name="emails">Email</string>
+    <string name="chat">Chats</string>
+    <string name="projects">Projects</string>
+
+    <string name="profile">Profile</string>
+    <string name="trending">Trending</string>
+    <string name="dummu_text">Lorem Ipsum is smply dummy Text of the printing and Type setting Industry</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
